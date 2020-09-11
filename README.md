@@ -8,4 +8,4 @@
 
 # Como participar
 
-A participação é aberta a todos que quiserem contribuir. Basta entrar em contato conosco pelos canais divulgados no branch master.
+A participação é aberta a todos que quiserem contribuir. Basta entrar em contato conosco pelos canais divulgados no branch `Quem Somos`.
