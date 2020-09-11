@@ -8,4 +8,4 @@
 
 # Como participar
 
-A participação é aberta a todos que quiserem contribuir. Basta entrar em contato conosco pelos canais divulgados no branch `Quem Somos`.
+A participação é aberta a todos que quiserem contribuir. Basta entrar em contato conosco pelos canais divulgados no repositorio `Quem Somos`, ou abrir uma issue nesse repositorio.
